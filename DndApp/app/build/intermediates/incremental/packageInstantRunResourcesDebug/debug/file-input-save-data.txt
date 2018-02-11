@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Sat Feb 03 19:29:06 PST 2018
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\AlexMackinen\\AndroidStudioProjects\\DndApp\\app\\build\\intermediates\\assets\\debug
+0.path=monsters.json
+0.set=ASSET
+count=1
